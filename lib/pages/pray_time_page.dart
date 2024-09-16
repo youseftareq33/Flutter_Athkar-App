@@ -178,7 +178,7 @@ class _PrayTimePageState extends State<PrayTimePage> {
           Padding(
             padding: const EdgeInsets.only(top: 20.0),
             child: Text(
-              '$currentTimeInJerusalem : الوقت الحالي في القدس',
+              '$currentTimeInJerusalem  الوقت الحالي في القدس',
               style: TextStyle(
                 color: Color(0xff228B22),
                 fontSize: 24,
