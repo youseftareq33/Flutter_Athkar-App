@@ -24,7 +24,7 @@
  
 ## ملحوظات:
 - GitHub Pages has certain configurations that block external API calls, which pray time page may has lack to load pray time card, however this image for pray time page:
-([Pray Time Page](https://github.com/youseftareq33/Flutter_Athkar_app/tree/master/app_photo/pray_time_page.jpg))
+([Pray Time Page](https://github.com/youseftareq33/Flutter_Athkar-App/tree/master/app_photo/pray_time_page.jpg))
 
 - There is app_photo folder
 
